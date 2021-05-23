@@ -1,5 +1,7 @@
 # D3 - Visualization of data set about health risk factors
 
+![Screenshot](Images/Screenshot.JPG)
+
 I have created a visualization based on a dataset from the U.S. Census Bureau and the Behavioral Risk Factor Surveillance System.
 
 Below are the steps I have undertaken for this project:
